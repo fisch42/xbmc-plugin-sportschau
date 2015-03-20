@@ -1,7 +1,7 @@
 xbmc-plugin-sportschau
 ===============================
 
-[Kodi](http://kodi.tv/) plugin for watching videos and livestreams from [sportschau.de](http://http://www.sportschau.de/).
+[Kodi](http://kodi.tv/) plugin for watching videos and livestreams from [sportschau.de](http://www.sportschau.de/).
 
 License
 =======
